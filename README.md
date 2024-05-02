@@ -3,8 +3,7 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=chvro12)
 ![chvro12's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chvro12&theme=github)
 
-- 👨‍💻 Mon portfolio : en cours ++
-- 📫 Comment me joindre : [sambathiampro@icloud.com(mailto:sambathiampro@icloud.com)
+- 📫 Comment me joindre : [sambathiampro@icloud.com](mailto:sambathiampro@icloud.com)
 - 🌐 Réseaux sociaux : [LinkedIn](linkedin.com/in/papa-samba-thiam-507128183)
 
 

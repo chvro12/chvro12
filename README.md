@@ -8,10 +8,9 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chvro12&repo=IQA_AUBER)](https://github.com/chvro12/IQA_AUBER.git)
 
-[Voir le projet ATL-Datamart](https://github.com/chvro12/ATL-Datamart.git)
-[Voir le projet TP Data Transaction](https://github.com/chvro12/TP_Data_Transaction.git)
+[![ATL-Datamart](https://github-readme-stats.vercel.app/api/pin/?username=chvro12&repo=ATL-Datamart)](https://github.com/chvro12/ATL-Datamart)
 
-
+[![TP Data Transaction](https://github-readme-stats.vercel.app/api/pin/?username=chvro12&repo=TP_Data_Transaction)](https://github.com/chvro12/TP_Data_Transaction)
 
 
 

@@ -1,6 +1,6 @@
 ### Hey 👋
 ![chvro12's GitHub stats](https://github-readme-stats.vercel.app/api?username=chvro12&show_icons=true&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=chvro12)
+
 
 - 📫 Comment me joindre : [sambathiampro@icloud.com](mailto:sambathiampro@icloud.com)
 - 🌐 Réseaux sociaux : [LinkedIn](linkedin.com/in/papa-samba-thiam-507128183)

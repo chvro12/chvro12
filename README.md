@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 ![chvro12's GitHub stats](https://github-readme-stats.vercel.app/api?username=chvro12&show_icons=true&theme=radical)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=chvro12)
 

@@ -5,7 +5,8 @@
 - 📫 Comment me joindre : [sambathiampro@icloud.com](mailto:sambathiampro@icloud.com)
 - 🌐 Réseaux sociaux : [LinkedIn](linkedin.com/in/papa-samba-thiam-507128183)
 
-
+### TP Data Transaction
+Ce pipeline intègre plusieurs technologies clés, notamment Apache Kafka pour le streaming de données, MinIO pour le stockage de données, et Apache Spark pour le traitement en temps réel.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chvro12&repo=TP_Data_Transaction)](https://github.com/chvro12/TP_Data_Transaction.git)
 
 

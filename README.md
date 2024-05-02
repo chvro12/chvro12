@@ -6,7 +6,9 @@
 - 🌐 Réseaux sociaux : [LinkedIn](linkedin.com/in/papa-samba-thiam-507128183)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chvro12&repo=-TP_Data_Transaction)](https://github.com/chvro12/TP_Data_Transaction.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chvro12&repo=TP_Data_Transaction)](https://github.com/chvro12/TP_Data_Transaction.git)
+
+
 
 
 <!--

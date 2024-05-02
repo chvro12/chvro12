@@ -6,7 +6,6 @@
 - 🌐 Réseaux sociaux : [LinkedIn](linkedin.com/in/papa-samba-thiam-507128183)
 
 ### IQA AUBER
-Le projet vise à développer un modèle pour l'analyse et la classification de la qualité de l'air à partir de données environnementales. 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chvro12&repo=IQA_AUBER)](https://github.com/chvro12/IQA_AUBER.git)
 

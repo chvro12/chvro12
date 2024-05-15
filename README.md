@@ -1,5 +1,4 @@
 ### Hey 👋
-![chvro12's GitHub stats](https://github-readme-stats.vercel.app/api?username=chvro12&show_icons=true&theme=radical)
 
 
 - 📫 Comment me joindre : [sambathiampro@icloud.com](mailto:sambathiampro@icloud.com)

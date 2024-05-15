@@ -2,7 +2,7 @@
 
 
 - 📫 Comment me joindre : [sambathiampro@icloud.com](mailto:sambathiampro@icloud.com)
-- 🌐 Réseaux sociaux : [LinkedIn](linkedin.com/in/papa-samba-thiam-507128183)
+- 🌐 Réseaux sociaux : [LinkedIn](https://www.linkedin.com/in/papa-samba-thiam)
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chvro12&repo=IQA_AUBER)](https://github.com/chvro12/IQA_AUBER.git)

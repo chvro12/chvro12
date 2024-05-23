@@ -6,12 +6,11 @@
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chvro12&repo=IQA_AUBER)](https://github.com/chvro12/IQA_AUBER.git)
+[![France Election AI prediction](https://github-readme-stats.vercel.app/api/pin/?username=chvro12&repo=MsPR_2)](https://github.com/chvro12/MsPR_2)
 
 [![ATL-Datamart](https://github-readme-stats.vercel.app/api/pin/?username=chvro12&repo=ATL-Datamart)](https://github.com/chvro12/ATL-Datamart)
 
 [![TP Data Transaction](https://github-readme-stats.vercel.app/api/pin/?username=chvro12&repo=TP_Data_Transaction)](https://github.com/chvro12/TP_Data_Transaction)
-
-[![France Election AI prediction](https://github-readme-stats.vercel.app/api/pin/?username=chvro12&repo=MsPR_2)](https://github.com/chvro12/MsPR_2)
 
 
 
